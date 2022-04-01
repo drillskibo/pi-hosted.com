@@ -1,0 +1,23 @@
+{
+  "name": "pi-hosted.com",
+  "version": "1.0.0",
+  "description": "Website for pi-hosted",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi-hosted/pi-hosted.com.git"
+  },
+  "author": "pi-hosted (https://github.com/pi-hosted)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pi-hosted/pi-hosted.com/issues"
+  },
+  "homepage": "https://github.com/pi-hosted/pi-hosted.com#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.37"
+  }
+}
